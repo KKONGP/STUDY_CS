@@ -1,0 +1,6 @@
+D:\Cshop\FastCampus_Sample_CS\011_Data4\bin\Debug\011_Data4.exe.config
+D:\Cshop\FastCampus_Sample_CS\011_Data4\bin\Debug\011_Data4.exe
+D:\Cshop\FastCampus_Sample_CS\011_Data4\bin\Debug\011_Data4.pdb
+D:\Cshop\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.csproj.CoreCompileInputs.cache
+D:\Cshop\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.exe
+D:\Cshop\FastCampus_Sample_CS\011_Data4\obj\Debug\011_Data4.pdb

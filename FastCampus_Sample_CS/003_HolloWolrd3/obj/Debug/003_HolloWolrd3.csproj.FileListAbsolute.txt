@@ -1,0 +1,6 @@
+D:\Cshop\FastCampus_Sample_CS\003_HolloWolrd3\bin\Debug\003_HolloWolrd3.exe.config
+D:\Cshop\FastCampus_Sample_CS\003_HolloWolrd3\bin\Debug\003_HolloWolrd3.exe
+D:\Cshop\FastCampus_Sample_CS\003_HolloWolrd3\bin\Debug\003_HolloWolrd3.pdb
+D:\Cshop\FastCampus_Sample_CS\003_HolloWolrd3\obj\Debug\003_HolloWolrd3.csproj.CoreCompileInputs.cache
+D:\Cshop\FastCampus_Sample_CS\003_HolloWolrd3\obj\Debug\003_HolloWolrd3.exe
+D:\Cshop\FastCampus_Sample_CS\003_HolloWolrd3\obj\Debug\003_HolloWolrd3.pdb

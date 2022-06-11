@@ -1,0 +1,7 @@
+D:\Cshop\FastCampus_Sample_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe.config
+D:\Cshop\FastCampus_Sample_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.exe
+D:\Cshop\FastCampus_Sample_CS\002_HelloWorld2\bin\Debug\002_HelloWorld2.pdb
+D:\Cshop\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.AssemblyReference.cache
+D:\Cshop\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.csproj.CoreCompileInputs.cache
+D:\Cshop\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.exe
+D:\Cshop\FastCampus_Sample_CS\002_HelloWorld2\obj\Debug\002_HelloWorld2.pdb

@@ -1,0 +1,6 @@
+D:\Cshop\FastCampus_Sample_CS\010_Data3\bin\Debug\010_Data3.exe.config
+D:\Cshop\FastCampus_Sample_CS\010_Data3\bin\Debug\010_Data3.exe
+D:\Cshop\FastCampus_Sample_CS\010_Data3\bin\Debug\010_Data3.pdb
+D:\Cshop\FastCampus_Sample_CS\010_Data3\obj\Debug\010_Data3.csproj.CoreCompileInputs.cache
+D:\Cshop\FastCampus_Sample_CS\010_Data3\obj\Debug\010_Data3.exe
+D:\Cshop\FastCampus_Sample_CS\010_Data3\obj\Debug\010_Data3.pdb
