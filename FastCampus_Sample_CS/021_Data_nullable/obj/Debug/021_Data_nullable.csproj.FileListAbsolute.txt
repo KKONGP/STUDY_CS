@@ -1,0 +1,6 @@
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\021_Data_nullable\bin\Debug\021_Data_nullable.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\021_Data_nullable\bin\Debug\021_Data_nullable.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\021_Data_nullable\bin\Debug\021_Data_nullable.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\021_Data_nullable\obj\Debug\021_Data_nullable.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\021_Data_nullable\obj\Debug\021_Data_nullable.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\021_Data_nullable\obj\Debug\021_Data_nullable.pdb

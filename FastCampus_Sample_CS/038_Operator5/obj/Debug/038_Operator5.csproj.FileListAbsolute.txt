@@ -1,0 +1,6 @@
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\038_Operator5\bin\Debug\038_Operator5.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\038_Operator5\obj\Debug\038_Operator5.pdb

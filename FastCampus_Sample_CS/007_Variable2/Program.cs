@@ -10,7 +10,7 @@ namespace _007_Variable2
     {
         static void Main(string[] args)
         {
-            int num;
+            //int num;
             int x = 100;
             int y = 200;
             int a = 1000, b = 2000;

@@ -1,0 +1,6 @@
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\018_Data_Object\bin\Debug\018_Data_Object.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\018_Data_Object\bin\Debug\018_Data_Object.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\018_Data_Object\bin\Debug\018_Data_Object.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\018_Data_Object\obj\Debug\018_Data_Object.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\018_Data_Object\obj\Debug\018_Data_Object.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\018_Data_Object\obj\Debug\018_Data_Object.pdb

@@ -1,0 +1,6 @@
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\017_Data_bool\bin\Debug\017_Data_bool.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\017_Data_bool\obj\Debug\017_Data_bool.pdb

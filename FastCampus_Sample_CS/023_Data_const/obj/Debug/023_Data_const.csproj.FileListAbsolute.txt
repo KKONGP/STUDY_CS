@@ -1,0 +1,7 @@
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\023_Data_const\bin\Debug\023_Data_const.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\023_Data_const\bin\Debug\023_Data_const.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\023_Data_const\bin\Debug\023_Data_const.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\023_Data_const\obj\Debug\023_Data_const.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\023_Data_const\obj\Debug\023_Data_const.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\023_Data_const\obj\Debug\023_Data_const.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\023_Data_const\obj\Debug\023_Data_const.csproj.AssemblyReference.cache

@@ -1,0 +1,7 @@
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\028_Data_reference\bin\Debug\028_Data_reference.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.csproj.AssemblyReference.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\028_Data_reference\obj\Debug\028_Data_reference.pdb

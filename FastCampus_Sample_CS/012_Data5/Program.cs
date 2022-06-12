@@ -13,8 +13,6 @@ namespace _012_Data5
             Console.WriteLine("float min: {0} ~ float max: {1}", float.MinValue, float.MaxValue);
             Console.WriteLine("double min: {0} ~ double max: {1}", double.MinValue, double.MaxValue);
             Console.WriteLine("decimal min: {0} ~ decimal max: {1}", decimal.MinValue, decimal.MaxValue);
-
-
         }
     }
 }

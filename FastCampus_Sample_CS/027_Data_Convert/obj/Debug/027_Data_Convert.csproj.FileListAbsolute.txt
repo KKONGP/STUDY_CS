@@ -1,0 +1,6 @@
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\027_Data_Convert\bin\Debug\027_Data_Convert.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\027_Data_Convert\obj\Debug\027_Data_Convert.pdb

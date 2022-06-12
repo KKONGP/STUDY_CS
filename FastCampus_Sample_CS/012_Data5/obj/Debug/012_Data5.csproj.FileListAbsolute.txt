@@ -1,1 +1,7 @@
 D:\Cshop\FastCampus_Sample_CS\012_Data5\obj\Debug\012_Data5.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\012_Data5\bin\Debug\012_Data5.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\012_Data5\bin\Debug\012_Data5.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\012_Data5\bin\Debug\012_Data5.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\012_Data5\obj\Debug\012_Data5.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\012_Data5\obj\Debug\012_Data5.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\012_Data5\obj\Debug\012_Data5.pdb
