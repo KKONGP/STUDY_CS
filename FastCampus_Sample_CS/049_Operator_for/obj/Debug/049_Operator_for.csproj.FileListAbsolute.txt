@@ -1,0 +1,6 @@
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\bin\Debug\049_Operator_for.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\bin\Debug\049_Operator_for.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\bin\Debug\049_Operator_for.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\049_Operator_for\obj\Debug\049_Operator_for.pdb
