@@ -7,7 +7,7 @@
     <ProjectGuid>{958EA47A-EC4F-45F0-9502-59E003C355AE}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_065_Func_Overloading</RootNamespace>
-    <AssemblyName>_065_Func_Overloading</AssemblyName>
+    <AssemblyName>065_Func_Overloading</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

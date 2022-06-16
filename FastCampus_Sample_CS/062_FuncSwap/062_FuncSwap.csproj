@@ -7,7 +7,7 @@
     <ProjectGuid>{BF4618AD-388E-4833-80F3-E1F2FD73842C}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_062_FuncSwap</RootNamespace>
-    <AssemblyName>_062_FuncSwap</AssemblyName>
+    <AssemblyName>062_FuncSwap</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>

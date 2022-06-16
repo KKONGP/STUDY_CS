@@ -7,7 +7,7 @@
     <ProjectGuid>{55BE6E9E-E9CC-4CFF-A67B-0AEEBA0980B9}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>_066_Func_params</RootNamespace>
-    <AssemblyName>_066_Func_params</AssemblyName>
+    <AssemblyName>066_Func_params</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
