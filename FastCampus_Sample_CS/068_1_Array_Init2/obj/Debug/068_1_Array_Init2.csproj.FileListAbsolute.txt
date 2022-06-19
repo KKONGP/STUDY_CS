@@ -1,0 +1,7 @@
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\068_1_Array_Init2\bin\Debug\068_1_Array_Init2.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\068_1_Array_Init2\bin\Debug\068_1_Array_Init2.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\068_1_Array_Init2\bin\Debug\068_1_Array_Init2.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\068_1_Array_Init2\obj\Debug\068_1_Array_Init2.csproj.AssemblyReference.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\068_1_Array_Init2\obj\Debug\068_1_Array_Init2.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\068_1_Array_Init2\obj\Debug\068_1_Array_Init2.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\068_1_Array_Init2\obj\Debug\068_1_Array_Init2.pdb

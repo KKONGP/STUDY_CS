@@ -1,0 +1,6 @@
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\070_Array_multi2\bin\Debug\070_Array_multi2.exe.config
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\070_Array_multi2\bin\Debug\070_Array_multi2.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\070_Array_multi2\bin\Debug\070_Array_multi2.pdb
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\070_Array_multi2\obj\Debug\070_Array_multi2.csproj.CoreCompileInputs.cache
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\070_Array_multi2\obj\Debug\070_Array_multi2.exe
+D:\PROJECT\STUDY_CS\FastCampus_Sample_CS\070_Array_multi2\obj\Debug\070_Array_multi2.pdb
